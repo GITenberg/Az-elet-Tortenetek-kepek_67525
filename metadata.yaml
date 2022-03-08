@@ -1,0 +1,29 @@
+_repo: Az-elet-Tortenetek-kepek_67525
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Petelei, István
+    alias: Petelei, Istvan
+    birthdate: 1852
+    deathdate: 1910
+    gutenberg_agent_id: '52066'
+    url: http://www.gutenberg.org/2009/agents/52066
+    wikipedia: https://hu.wikipedia.org/wiki/Petelei_Istv%C3%A1n_(%C3%ADr%C3%B3)
+description: ''
+gutenberg_issued: '2022-02-28'
+identifiers:
+  gutenberg: '67525'
+language: hu
+pgterms:marc905: 20220131131154petelei
+pgterms:marc906: '1908'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  Electronic Library
+publication_note: Hungary :Grill Károly,1908.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Az élet: Történetek, képek'
+url: http://www.gutenberg.org/ebooks/67525
